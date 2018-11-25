@@ -1,0 +1,12 @@
+body{
+  background: url(/images/Fondo1.jpg) no-repeat fixed center;
+}
+
+.fringe{
+  background-color: #0273B9;
+  height: 5px;
+}
+
+.content{
+  background-color: #AEE1FFB3;
+}
